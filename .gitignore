@@ -7,4 +7,5 @@
 # Pods/
 
 .DS_Store
-xcuserdata
+xcuserdataCarthage
+Carthage
